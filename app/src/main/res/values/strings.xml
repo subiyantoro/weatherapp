@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PanintiTest</string>
+    <string name="delete">Delete</string>
+    <string name="search_city_weather">Search City Weather</string>
+    <string name="info_no_weather">No City Weather, To Adding Weather City Click This Add Button Bellow</string>
+    <string name="title">WEATHER APP</string>
+    <string name="filter">Filter</string>
+    <string name="sort_a_z">Sort By City A-Z</string>
+    <string name="sort_by_city_z_a">Sort By City Z-A</string>
+    <string name="info_app_weather">Weather Application built base on Api From openweather.org</string>
+</resources>
